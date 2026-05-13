@@ -1,0 +1,6 @@
+C:/Users/90537/Desktop/proje/imge/build/Debug/CMakeFiles/imge.dir
+C:/Users/90537/Desktop/proje/imge/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/90537/Desktop/proje/imge/build/Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/90537/Desktop/proje/imge/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+C:/Users/90537/Desktop/proje/imge/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/90537/Desktop/proje/imge/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
